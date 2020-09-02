@@ -15,8 +15,6 @@ def create_text(s):
     else:
         pass
 
-# compare_as_combination.
-
 def find_text(s:str):
     sset = set()
     s_counter = cac.counter(s)
